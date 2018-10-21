@@ -3,6 +3,10 @@ In this tutorial, you'll learn how to develop a project that integrates Machine 
 
 For this project will use Unity 3D and Vuforia, we'll build from the ground the Machine Learning algorithms in order to give you a better understanding of how ML works.
 
+## Intro
+
+A famous chocolate company wants to predict how many snack will sell in the future years
+
 
 ## Dataset structure
 
